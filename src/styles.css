@@ -1,1 +1,48 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #E91E63;
+}
+h1 {
+    font-weight: 100;
+    color: white;
+    font-size: 40px;
+}
+
+label {
+    color: white;
+}
+
+small#emailHelp {
+    color: white;
+}
+
+small#emailHelp {
+    color: #ffffff54!important;
+}
+
+button.btn.btn-primary {
+    background-color: #ff428a;
+    border-color: #ff619d;
+    font-weight: 200;
+}
+
+li.list-group-item {
+    padding: 15px;
+    background-color: #e91e6300;
+}
+input.form-control {
+    width: 290px;
+}
+.card {
+    border: none;
+}
+table.table.table-striped {
+    background-color: white;
+}
+th {
+    background-color: #ff1d8a52;
+}
+img {
+    border-radius: 7px;
+}
